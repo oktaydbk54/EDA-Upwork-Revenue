@@ -1,0 +1,148 @@
+Date,Ref ID,Type,Description,Agency,Freelancer,Team,Account Name,PO,Amount,Amount in local currency,Currency,Balance
+"Dec 17, 2022",539766472,Payment,Paid from MasterCard 1946,,,,Boran Oktay Dabak,,14.99,287.72,TRY,0.00
+"Dec 17, 2022",539766471,Membership Fee,Fees for Freelancer Plus membership,,,,Boran Oktay Dabak,,-14.99,,,-14.99
+"Dec 13, 2022",539102767,Service Fee,Returned Service Fee (ref 537862622 Reversed),,Boran Oktay Dabak,CUR NON,Boran Oktay Dabak,,4.00,,,0.00
+"Dec 13, 2022",539102764,Fixed Price,Returned Fixed Price (ref 537862621 Reversed),,Boran Oktay Dabak,CUR NON,Boran Oktay Dabak,,-20.00,,,-4.00
+"Dec 13, 2022",537862622,Service Fee,Service Fee for Fixed Price - Ref ID 537862621,,Boran Oktay Dabak,CUR NON,Boran Oktay Dabak,,-4.00,,,16.00
+"Dec 13, 2022",537862621,Fixed Price,Invoice for I need Data Scraping Bot: Milestone 1 - I need Data Scraping Bot,,Boran Oktay Dabak,CUR NON,Boran Oktay Dabak,,20.00,,,20.00
+"Dec 5, 2022",535865876,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Dec 5, 2022",535865875,Withdrawal,Direct to Local Bank Transfer for 3161.47 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-175.01,3161.47,TRY,0.99
+"Dec 5, 2022",535865498,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,176.00
+"Dec 5, 2022",535865497,Withdrawal,Direct to Local Bank Transfer for 2294.35 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-127.01,2294.35,TRY,176.99
+"Dec 4, 2022",535071348,Service Fee,Service Fee for Fixed Price - Ref ID 535071347,,Boran Oktay Dabak,ActivNation,Boran Oktay Dabak,,-32.00,,,304.00
+"Dec 4, 2022",535071347,Fixed Price,Invoice for Data Scraping & Aggregation: Milestone 2 - Next 4 Databases,,Boran Oktay Dabak,ActivNation,Boran Oktay Dabak,,160.00,,,336.00
+"Dec 4, 2022",535071302,Service Fee,Service Fee for Fixed Price - Ref ID 535071301,,Boran Oktay Dabak,ActivNation,Boran Oktay Dabak,,-32.00,,,176.00
+"Dec 4, 2022",535071301,Fixed Price,Invoice for Data Scraping & Aggregation: Milestone 1 - First 4 Databases,,Boran Oktay Dabak,ActivNation,Boran Oktay Dabak,,160.00,,,208.00
+"Oct 28, 2022",523661883,Service Fee,Service Fee for Fixed Price - Ref ID 523661882,,Boran Oktay Dabak,Dogancan Ulug,Boran Oktay Dabak,,-12.00,,,48.00
+"Oct 28, 2022",523661882,Fixed Price,Invoice for Python Coach and Tutor: Milestone 1 - Python Coach and Tutor,,Boran Oktay Dabak,Dogancan Ulug,Boran Oktay Dabak,,60.00,,,60.00
+"Oct 16, 2022",521634499,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Oct 16, 2022",521634498,Withdrawal,Direct to Local Bank Transfer for 409.41 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-23.01,409.41,TRY,0.99
+"Oct 13, 2022",519585344,Service Fee,Service Fee for Fixed Price - Ref ID 519585343,,Boran Oktay Dabak,Ankita Sukhdeve,Boran Oktay Dabak,,-6.00,,,24.00
+"Oct 13, 2022",519585343,Fixed Price,Invoice for Looking for Python Developer with excellent Data Wrangling Skills: Milestone 1 - Looking for Python Developer with excellent Data Wrangling Skills,,Boran Oktay Dabak,Ankita Sukhdeve,Boran Oktay Dabak,,30.00,,,30.00
+"Oct 5, 2022",519061005,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Oct 5, 2022",519061004,Withdrawal,Direct to Local Bank Transfer for 3675.84 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-204.03,3675.84,TRY,0.99
+"Oct 4, 2022",518936764,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,205.02
+"Oct 4, 2022",518936763,Withdrawal,Direct to Local Bank Transfer for 1781.63 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-99.01,1781.63,TRY,206.01
+"Oct 4, 2022",518837816,Membership Fee,Subscription Renewal Charges,,,,Boran Oktay Dabak,,-14.99,,,305.02
+"Oct 3, 2022",516997981,Service Fee,Service Fee for Fixed Price - Ref ID 516997980,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,-35.00,,,320.01
+"Oct 3, 2022",516997980,Fixed Price,Invoice for Best European Hiking Spots Data extraction: Milestone 1 - Best European Hiking Spots Data extraction,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,350.00,,,355.01
+"Sep 4, 2022",509473294,Membership Fee,Subscription Renewal Charges,,,,Boran Oktay Dabak,,-14.99,,,5.01
+"Aug 19, 2022",505317849,Adjustment,Customer Credit,,,,Boran Oktay Dabak,,20.00,,,20.00
+"Aug 16, 2022",504609492,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Aug 16, 2022",504609491,Withdrawal,Direct to Local Bank Transfer for 5466.26 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-314.01,5466.26,TRY,0.99
+"Aug 16, 2022",503111340,Service Fee,Service Fee for Fixed Price - Ref ID 503111339,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,-35.00,,,315.00
+"Aug 16, 2022",503111339,Fixed Price,Invoice for Data Scraping Expert for ongoing Data Collection and Analysis Work: Milestone 1 - Data Scraping Expert for ongoing Data Collection and Analysis Work,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,350.00,,,350.00
+"Aug 7, 2022",501539828,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Aug 7, 2022",501539827,Withdrawal,Direct to Local Bank Transfer for 10121.59 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-584.01,10121.59,TRY,0.99
+"Aug 7, 2022",500739787,Service Fee,Service Fee for Fixed Price - Ref ID 500739786,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-65.00,,,585.00
+"Aug 7, 2022",500739786,Fixed Price,Invoice for Data Science Project: Milestone 1 - Data Science Project,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,650.00,,,650.00
+"Aug 4, 2022",501086469,Payment,Paid from MasterCard 9415,,,,Boran Oktay Dabak,,14.99,276.80,TRY,0.00
+"Aug 4, 2022",501086468,Membership Fee,Subscription Renewal Charges,,,,Boran Oktay Dabak,,-14.99,,,-14.99
+"Aug 3, 2022",500900900,Payment,Paid from MasterCard 9415,,,,Boran Oktay Dabak,,12.00,221.58,TRY,0.00
+"Aug 3, 2022",500900899,Membership Fee,Fees for additional Connects (80),,,,Boran Oktay Dabak,,-12.00,,,-12.00
+"Jul 30, 2022",499416069,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jul 30, 2022",499416068,Withdrawal,Direct to Local Bank Transfer for 4376.56 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-252.51,4376.56,TRY,0.99
+"Jul 30, 2022",497615717,Service Fee,Service Fee return for Refund - Ref ID 497615716,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,31.00,,,253.50
+"Jul 30, 2022",497615716,Refund,- - Ref ID 497615459,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,-200.00,,,222.50
+"Jul 30, 2022",497615460,Service Fee,Service Fee for Fixed Price - Ref ID 497615459,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,-77.50,,,422.50
+"Jul 30, 2022",497615459,Fixed Price,"Invoice for Job Site scraping for EN, DE, & PL market: Milestone 1 - Job Site scraping for EN, DE, & PL market",,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,500.00,,,500.00
+"Jul 27, 2022",498945886,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jul 27, 2022",498945885,Withdrawal,Direct to Local Bank Transfer for 3140.37 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-181.01,3140.37,TRY,0.99
+"Jul 27, 2022",496436244,Service Fee,Service Fee for Hourly - Ref ID 496436238,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,-45.00,,,182.00
+"Jul 27, 2022",496436238,Hourly,Invoice for 07/11/2022-07/17/2022 - 15:00 hrs @ $15.00/hr,,Boran Oktay Dabak,Type A,Boran Oktay Dabak,,225.00,,,227.00
+"Jul 17, 2022",495505874,Membership Fee,Fees for additional Connects (40),,,,Boran Oktay Dabak,,-6.00,,,2.00
+"Jul 16, 2022",493627292,Service Fee,Service Fee for Fixed Price - Ref ID 493627291,,Boran Oktay Dabak,FreeUnlocks > FreeUnlocks_new,Boran Oktay Dabak,,-2.00,,,8.00
+"Jul 16, 2022",493627291,Fixed Price,Invoice for Looking for an Expert Web Scraper - Advanced web scraping: Milestone 1 - Looking for an Expert Web Scraper - Advanced web scraping,,Boran Oktay Dabak,FreeUnlocks > FreeUnlocks_new,Boran Oktay Dabak,,10.00,,,10.00
+"Jul 7, 2022",493127558,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jul 7, 2022",493127557,Withdrawal,Direct to Local Bank Transfer for 8903.83 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-534.01,8903.83,TRY,0.99
+"Jul 7, 2022",491480560,Service Fee,Service Fee for Fixed Price - Ref ID 491480558,,Boran Oktay Dabak,Doguhan Karahan,Boran Oktay Dabak,,-5.00,,,535.00
+"Jul 7, 2022",491480558,Fixed Price,Invoice for Machine Learning Project: Milestone 1 - Machine Learning Project,,Boran Oktay Dabak,Doguhan Karahan,Boran Oktay Dabak,,50.00,,,540.00
+"Jul 7, 2022",491479832,Service Fee,Service Fee for Fixed Price - Ref ID 491479831,,Boran Oktay Dabak,Doguhan Karahan,Boran Oktay Dabak,,-5.00,,,490.00
+"Jul 7, 2022",491479831,Fixed Price,Invoice for Data Science Project: Milestone 1 - Data Science Project,,Boran Oktay Dabak,Doguhan Karahan,Boran Oktay Dabak,,50.00,,,495.00
+"Jul 7, 2022",491478036,Service Fee,Service Fee for Fixed Price - Ref ID 491478034,,Boran Oktay Dabak,Doguhan Karahan,Boran Oktay Dabak,,-105.00,,,445.00
+"Jul 7, 2022",491478034,Fixed Price,Invoice for Data Scraping Template - BD: Milestone 1 - Data Scraping Template - BD,,Boran Oktay Dabak,Doguhan Karahan,Boran Oktay Dabak,,550.00,,,550.00
+"Jul 4, 2022",491697385,Payment,Paid from MasterCard 9415,,,,Boran Oktay Dabak,,14.99,258.66,TRY,0.00
+"Jul 4, 2022",491697384,Membership Fee,Fees for Freelancer Plus membership,,,,Boran Oktay Dabak,,-14.99,,,-14.99
+"Jun 29, 2022",490979518,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jun 29, 2022",490979517,Withdrawal,Direct to Local Bank Transfer for 8727.82 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-539.01,8727.82,TRY,0.99
+"Jun 28, 2022",489158770,Service Fee,Service Fee for Fixed Price - Ref ID 489158769,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-60.00,,,540.00
+"Jun 28, 2022",489158769,Fixed Price,Invoice for Data Mining Program: Milestone 1 - Data Mining Program,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,600.00,,,600.00
+"Jun 12, 2022",485408757,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jun 12, 2022",485408756,Withdrawal,Direct to Local Bank Transfer for 11886.05 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-719.01,11886.05,TRY,0.99
+"Jun 12, 2022",484576296,Service Fee,Service Fee for Fixed Price - Ref ID 484576295,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-20.00,,,720.00
+"Jun 12, 2022",484576295,Fixed Price,Invoice for Data Scraping Program: Milestone 1 - Data Scraping Program,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,200.00,,,740.00
+"Jun 12, 2022",484576241,Service Fee,Service Fee for Fixed Price - Ref ID 484576240,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-60.00,,,540.00
+"Jun 12, 2022",484576240,Fixed Price,Invoice for Data Mining Program: Milestone 1 - Data Mining Program,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,600.00,,,600.00
+"Jun 5, 2022",483420642,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jun 5, 2022",483420641,Withdrawal,Direct to Local Bank Transfer for 868.51 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-55.01,868.51,TRY,0.99
+"Jun 4, 2022",481448472,Service Fee,Service Fee for Fixed Price - Ref ID 481448471,,Boran Oktay Dabak,Zara Weinstock,Boran Oktay Dabak,,-14.00,,,56.00
+"Jun 4, 2022",481448471,Fixed Price,Invoice for Outsourcing for data analysis programming task: Milestone 2 - Completion,,Boran Oktay Dabak,Zara Weinstock,Boran Oktay Dabak,,70.00,,,70.00
+"Jun 3, 2022",483116054,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Jun 3, 2022",483116053,Withdrawal,Direct to Local Bank Transfer for 879.30 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-55.01,879.30,TRY,0.99
+"Jun 3, 2022",481357819,Service Fee,Service Fee for Fixed Price - Ref ID 481357818,,Boran Oktay Dabak,Zara Weinstock,Boran Oktay Dabak,,-14.00,,,56.00
+"Jun 3, 2022",481357818,Fixed Price,Invoice for Outsourcing for data analysis programming task: Milestone 1 - To begin,,Boran Oktay Dabak,Zara Weinstock,Boran Oktay Dabak,,70.00,,,70.00
+"May 25, 2022",480741811,Payment,Paid from MasterCard 7387,,,,Boran Oktay Dabak,,14.99,248.23,TRY,0.00
+"May 25, 2022",480741810,Membership Fee,Subscription Renewal Charges,,,,Boran Oktay Dabak,,-14.99,,,-14.99
+"May 24, 2022",480511211,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"May 24, 2022",480511210,Withdrawal,Direct to Local Bank Transfer for 1221.01 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-79.01,1221.01,TRY,0.99
+"May 24, 2022",478991777,Service Fee,Service Fee for Fixed Price - Ref ID 478991776,,Boran Oktay Dabak,LCA,Boran Oktay Dabak,,-5.00,,,80.00
+"May 24, 2022",478991776,Fixed Price,Invoice for Data Scraping or API: Milestone 2 - Complete Data,,Boran Oktay Dabak,LCA,Boran Oktay Dabak,,25.00,,,85.00
+"May 24, 2022",478991271,Service Fee,Service Fee for Fixed Price - Ref ID 478991270,,Boran Oktay Dabak,LCA,Boran Oktay Dabak,,-15.00,,,60.00
+"May 24, 2022",478991270,Fixed Price,Invoice for Data Scraping or API: Milestone 1 - Sample Data,,Boran Oktay Dabak,LCA,Boran Oktay Dabak,,75.00,,,75.00
+"May 16, 2022",478465474,Payment,Paid from MasterCard 7387,,,,Boran Oktay Dabak,,22.50,358.70,TRY,0.00
+"May 16, 2022",478465473,Membership Fee,Fees for additional Connects (150),,,,Boran Oktay Dabak,,-22.50,,,-22.50
+"May 13, 2022",477200263,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"May 13, 2022",477200262,Withdrawal,Direct to Local Bank Transfer for 5620.64 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-375.01,5620.64,TRY,0.99
+"May 13, 2022",475345950,Service Fee,Service Fee for Fixed Price - Ref ID 475345949,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-40.00,,,376.00
+"May 13, 2022",475345949,Fixed Price,Invoice for Web Scraper Program: Milestone 1 - Web Scraper Program,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,400.00,,,416.00
+"May 12, 2022",476956593,Adjustment,Customer Credit,,,,Boran Oktay Dabak,,16.00,,,16.00
+"May 11, 2022",476721392,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"May 11, 2022",476721391,Withdrawal,Direct to Local Bank Transfer for 1477.86 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-99.52,1477.86,TRY,0.99
+"May 7, 2022",475269782,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,100.51
+"May 7, 2022",475269781,Withdrawal,Direct to Local Bank Transfer for 1343.95 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-93.01,1343.95,TRY,101.50
+"May 6, 2022",473373086,Service Fee,Service Fee for Fixed Price - Ref ID 473373085,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-10.00,,,194.51
+"May 6, 2022",473373085,Fixed Price,Invoice for Upgrade Web Scraping Bot: Milestone 1 - Upgrade Web Scraping Bot,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,100.00,,,204.51
+"May 5, 2022",474931475,Membership Fee,Fees for additional Connects (150),,,,Boran Oktay Dabak,,-22.50,,,104.51
+"May 5, 2022",474922616,Membership Fee,Fees for additional Connects (10),,,,Boran Oktay Dabak,,-1.50,,,127.01
+"May 5, 2022",474919980,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,128.51
+"May 5, 2022",474919979,Withdrawal,Direct to Local Bank Transfer for 6285.55 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-440.01,6285.55,TRY,129.50
+"May 5, 2022",473253002,Service Fee,Service Fee for Fixed Price - Ref ID 473253001,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-60.00,,,569.51
+"May 5, 2022",473253001,Fixed Price,Invoice for Kijiji Bot for : Milestone 1 - Kijiji Bot for ,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,600.00,,,629.51
+"May 4, 2022",474793773,Membership Fee,Fees for additional Connects (10),,,,Boran Oktay Dabak,,-1.50,,,29.51
+"Apr 26, 2022",470950366,Service Fee,Service Fee for Fixed Price - Ref ID 470950365,,Boran Oktay Dabak,CONVICTAM,Boran Oktay Dabak,,-2.00,,,31.01
+"Apr 26, 2022",470950365,Fixed Price,Invoice for Update historical prices for US stocks from internet: Milestone 2 - completed,,Boran Oktay Dabak,CONVICTAM,Boran Oktay Dabak,,10.00,,,33.01
+"Apr 25, 2022",471434272,Membership Fee,Fees for Freelancer Plus membership,,,,Boran Oktay Dabak,,-14.99,,,23.01
+"Apr 25, 2022",470777940,Service Fee,Service Fee for Fixed Price - Ref ID 470777938,,Boran Oktay Dabak,CONVICTAM,Boran Oktay Dabak,,-2.00,,,38.00
+"Apr 25, 2022",470777938,Fixed Price,Invoice for Update historical prices for US stocks from internet: Milestone 1 - Update historical prices for US stocks from internet,,Boran Oktay Dabak,CONVICTAM,Boran Oktay Dabak,,10.00,,,40.00
+"Apr 24, 2022",471396259,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,30.00
+"Apr 24, 2022",471396258,Withdrawal,Direct to Local Bank Transfer for 428.18 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-30.01,428.18,TRY,30.99
+"Apr 24, 2022",471394540,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,61.00
+"Apr 24, 2022",471394537,Withdrawal,Direct to Local Bank Transfer for 1726.55 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-121.01,1726.55,TRY,61.99
+"Apr 24, 2022",471351204,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,183.00
+"Apr 24, 2022",471351203,Withdrawal,Direct to Local Bank Transfer for 856.22 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-60.01,856.22,TRY,183.99
+"Apr 24, 2022",470636161,Service Fee,Service Fee for Fixed Price - Ref ID 470636160,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-56.00,,,244.00
+"Apr 24, 2022",470636160,Fixed Price,Invoice for Real Estate Bot Vol 2: Milestone 1 - Real Estate Bot Vol 2,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,300.00,,,300.00
+"Apr 20, 2022",470688888,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Apr 20, 2022",470688887,Withdrawal,Direct to Local Bank Transfer for 2712.89 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-191.01,2712.89,TRY,0.99
+"Apr 20, 2022",468295320,Service Fee,Service Fee for Hourly - Ref ID 468295302,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,-48.00,,,192.00
+"Apr 20, 2022",468295302,Hourly,Invoice for 04/04/2022-04/10/2022 - 8:00 hrs @ $30.00/hr,,Boran Oktay Dabak,PERSONAL REAL ESTATE CORP,Boran Oktay Dabak,,240.00,,,240.00
+"Apr 19, 2022",470597429,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Apr 19, 2022",470597428,Withdrawal,Direct to Local Bank Transfer for 1919.70 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-135.01,1919.70,TRY,0.99
+"Apr 19, 2022",469166730,Service Fee,Service Fee for Fixed Price - Ref ID 469166729,,Boran Oktay Dabak,MRIFIX,Boran Oktay Dabak,,-30.00,,,136.00
+"Apr 19, 2022",469166729,Fixed Price,Invoice for Make a Web crawler: Milestone 1 - The first step is web mining,,Boran Oktay Dabak,MRIFIX,Boran Oktay Dabak,,150.00,,,166.00
+"Apr 18, 2022",470455511,Adjustment,Customer Credit,,,,Boran Oktay Dabak,,16.00,,,16.00
+"Apr 9, 2022",467493941,Payment,Paid from MasterCard 9415,,,,Boran Oktay Dabak,,12.00,181.98,TRY,0.00
+"Apr 9, 2022",467493940,Membership Fee,Fees for additional Connects (80),,,,Boran Oktay Dabak,,-12.00,,,-12.00
+"Apr 5, 2022",466747690,Payment,Paid from MasterCard 9415,,,,Boran Oktay Dabak,,12.00,181.44,TRY,0.00
+"Apr 5, 2022",466747689,Membership Fee,Fees for additional Connects (80),,,,Boran Oktay Dabak,,-12.00,,,-12.00
+"Mar 30, 2022",464911926,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Mar 30, 2022",464911925,Withdrawal,Direct to Local Bank Transfer for 2256.27 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-159.01,2256.27,TRY,0.99
+"Mar 30, 2022",463367323,Service Fee,Service Fee for Fixed Price - Ref ID 463367322,,Boran Oktay Dabak,Jimmy Hopkins,Boran Oktay Dabak,,-40.00,,,160.00
+"Mar 30, 2022",463367322,Fixed Price,Invoice for Download Numbers from a website and add them together: Milestone 1 - Download Numbers from a website and add them together,,Boran Oktay Dabak,Jimmy Hopkins,Boran Oktay Dabak,,200.00,,,200.00
+"Mar 29, 2022",464725531,Withdrawal Fee,Withdrawal Fee - Direct to Local Bank,,,,Boran Oktay Dabak,,-0.99,,,0.00
+"Mar 29, 2022",464725530,Withdrawal,Direct to Local Bank Transfer for 57.82 TRY to xxxx-5397,,,,Boran Oktay Dabak,,-4.02,57.82,TRY,0.99
+"Mar 17, 2022",461345908,Membership Fee,Fees for Freelancer Plus membership,,,,Boran Oktay Dabak,,-14.99,,,5.01
+"Mar 1, 2022",455338296,Service Fee,Service Fee for Fixed Price - Ref ID 455338295,,Boran Oktay Dabak,Ai Punks,Boran Oktay Dabak,,-5.00,,,20.00
+"Mar 1, 2022",455338295,Fixed Price,Invoice for Scrap Images from instagram: Milestone 1 - Scrap Images from instagram,,Boran Oktay Dabak,Ai Punks,Boran Oktay Dabak,,25.00,,,25.00
+"Feb 28, 2022",456636091,Payment,Paid from MasterCard 9415,,,,Boran Oktay Dabak,,1.50,21.72,TRY,0.00
+"Feb 28, 2022",456636089,Membership Fee,Fees for additional Connects (10),,,,Boran Oktay Dabak,,-1.50,,,-1.50
